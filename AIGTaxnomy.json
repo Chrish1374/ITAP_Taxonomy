@@ -1,0 +1,1092 @@
+{
+  "data": [
+    {
+      "id": "7f959f63-b868-40ba-b131-9c9bdf24a34b",
+      "label": "project_actual",
+      "description": "project_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "6b67a11f-9e94-4dba-9051-47856157e7e8",
+      "label": "project_actual_unchanged",
+      "description": "project_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "51c9df4d-aee3-46ce-a705-4f02fc4fc2d1",
+      "label": "project_actual_increase",
+      "description": "project_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "b90ffa4a-15cd-4a52-b105-d64669718122",
+      "label": "project_actual_decrease",
+      "description": "project_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "45df0471-69f3-4a0f-b617-6e0860ae9fe7",
+      "label": "project_expect",
+      "description": "project_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "db01228c-9552-4110-b765-89ad2fee4b15",
+      "label": "project_expect_unchanged",
+      "description": "project_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a0e7685c-067a-456f-860f-317c80151130",
+      "label": "project_expect_increase",
+      "description": "project_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "96334863-96c3-4a1a-8b4a-18559fda2920",
+      "label": "project_expect_decrease",
+      "description": "project_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a93a1158-20c0-477e-8b5a-ecb1dcd67669",
+      "label": "project_other",
+      "description": "project_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c5cf60c9-6020-4288-bddc-378261db42ca",
+      "label": "capacity_actual",
+      "description": "capacity_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "58bde38b-9ba8-443c-a700-0526e839520e",
+      "label": "capacity_actual_unchanged",
+      "description": "capacity_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ab706350-12fa-401f-8511-bc568663263b",
+      "label": "capacity_actual_increase",
+      "description": "capacity_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "6cf62f90-ec57-42eb-93d8-094f5f9498aa",
+      "label": "capacity_actual_decrease",
+      "description": "capacity_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "d2c83731-adc5-4080-8131-b0310bc16801",
+      "label": "capacity_expect",
+      "description": "capacity_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "849a9f8f-c6b3-4dbf-9fb3-b3475d4761b0",
+      "label": "capacity_expect_unchanged",
+      "description": "capacity_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "8cbfa8d6-e071-42c2-836a-9f86032f0d40",
+      "label": "capacity_expect_increase",
+      "description": "capacity_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "2c77cd33-d544-4514-964e-02ac716deccf",
+      "label": "capacity_expect_decrease",
+      "description": "capacity_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "87232fc4-2add-4f4e-935d-6c05b348f428",
+      "label": "capacity_other",
+      "description": "capacity_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "d2bb989f-42ec-466a-828f-446e9ea087f3",
+      "label": "production_actual",
+      "description": "production_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "bed4d23a-4628-4333-a9d2-47a141045bbe",
+      "label": "production_actual_unchanged",
+      "description": "production_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ab60c75a-7a42-4ec3-b01c-b8b9a15e9daa",
+      "label": "production_actual_increase",
+      "description": "production_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "1af8d3ae-a103-44f9-a4b5-5c5b7f1101a8",
+      "label": "production_actual_decrease",
+      "description": "production_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c6fe43d9-71ac-45a7-ac79-9250b7d0aa66",
+      "label": "production_expect",
+      "description": "production_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "e5c4281f-23cb-4363-844c-2a95a9cef170",
+      "label": "production_expect_unchanged",
+      "description": "production_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "4b213e42-a5d6-40cc-b4fd-e11d8b8a8c0c",
+      "label": "production_expect_increase",
+      "description": "production_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "37238f95-ae1a-48c1-811d-5f907ba06d03",
+      "label": "production_expect_decrease",
+      "description": "production_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ce915c2c-6409-40e4-b28e-79f30cf1183d",
+      "label": "production_other",
+      "description": "production_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "8e5fb008-724c-40a6-a4ed-e2eab375fffa",
+      "label": "production_idle_actual",
+      "description": "production_idle_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c53da4de-2539-4c16-b257-817889bb3f04",
+      "label": "production_idle_expect",
+      "description": "production_idle_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "cff6fbac-5a3a-418e-b1e1-a4810f6ce878",
+      "label": "production_idle_other",
+      "description": "production_idle_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "273cab28-f4ec-4836-925b-6e79afddc5d1",
+      "label": "labor_actual",
+      "description": "labor_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "88948d8c-f98f-49ce-974f-66af3cdb615a",
+      "label": "labor_actual_unchanged",
+      "description": "labor_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "4cceacc0-0003-4ee2-bc54-5836d87177e9",
+      "label": "labor_actual_increase",
+      "description": "labor_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "b07f7b14-e575-4589-bcba-aca4fdf255db",
+      "label": "labor_actual_decrease",
+      "description": "labor_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "b5253f68-367c-40fe-8b28-ac1e7ed6d951",
+      "label": "labor_expect",
+      "description": "labor_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "68d70c31-ddd6-4979-a1a0-11dd99667a25",
+      "label": "labor_expect_unchanged",
+      "description": "labor_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "79713749-2399-4c2b-8389-7643b1b69441",
+      "label": "labor_expect_increase",
+      "description": "labor_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "054cbbd1-49af-4f90-921d-ef23071395e5",
+      "label": "labor_expect_decrease",
+      "description": "labor_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "8c64abd5-1394-4c24-94d8-c066d8cda942",
+      "label": "labor_other",
+      "description": "labor_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "1b6756cf-02c2-4d47-b6e0-b75a63345766",
+      "label": "demand_actual",
+      "description": "demand_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ec61d66d-fae3-4809-8950-170715199cd0",
+      "label": "demand_actual_unchanged",
+      "description": "demand_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a6231585-b1cc-4d2d-b036-0ea77ffc1215",
+      "label": "demand_actual_increase",
+      "description": "demand_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "db99f489-8b7d-4a66-85c1-3d540c0ecbe2",
+      "label": "demand_actual_decrease",
+      "description": "demand_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "e639fbc3-c2e5-46d9-8eb4-2be7b19a861b",
+      "label": "demand_expect",
+      "description": "demand_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ddbc5af0-ebd6-43cb-9775-cc81c764a28e",
+      "label": "demand_expect_unchanged",
+      "description": "demand_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "5c316bc2-f6b5-431c-91f4-129c66c83124",
+      "label": "demand_expect_increase",
+      "description": "demand_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "585070d3-005e-4bd8-8347-2515e845fe91",
+      "label": "demand_expect_decrease",
+      "description": "demand_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "86d1ef4a-5425-4c92-b24a-9824d96afed9",
+      "label": "demand_other",
+      "description": "demand_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "b6d596f4-2482-4bf0-b8f6-edaa0e50853c",
+      "label": "productivity_actual",
+      "description": "productivity_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "2a42a164-7579-4b4d-bf6d-e6385ff4a206",
+      "label": "productivity_actual_unchanged",
+      "description": "productivity_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "3d18ddf7-42dc-4489-bf36-9d0facd0106e",
+      "label": "productivity_actual_increase",
+      "description": "productivity_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "2f401d82-cd73-4dca-920f-f174026442fd",
+      "label": "productivity_actual_decrease",
+      "description": "productivity_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "d544554d-afd0-4a9a-bd9f-8ebbb0d9360b",
+      "label": "productivity_expect",
+      "description": "productivity_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "bde7a12c-caf7-42d1-9cb4-6109d0bd433e",
+      "label": "productivity_expect_unchanged",
+      "description": "productivity_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "18ec63f9-afd0-46a6-8716-cd92f0a7bfca",
+      "label": "productivity_expect_increase",
+      "description": "productivity_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "38adb8f9-7564-4b2e-a8b0-89803b2d3f75",
+      "label": "productivity_expect_decrease",
+      "description": "productivity_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "3c7fe84b-3919-4db7-bdca-02c2b399831a",
+      "label": "productivity_other",
+      "description": "productivity_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "e4d2d24c-705c-4e7d-a124-73028aa2ffc1",
+      "label": "restructuring_actual",
+      "description": "restructuring_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "27311c9d-7670-43a6-8d2b-edaef035b387",
+      "label": "restructuring_actual_unchanged",
+      "description": "restructuring_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "3f38cf29-4251-4cdc-a014-843b208365d4",
+      "label": "restructuring_actual_increase",
+      "description": "restructuring_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "b3e0c69e-a4b1-4331-a66e-d8db638dbe4b",
+      "label": "restructuring_actual_decrease",
+      "description": "restructuring_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "9e39fa4b-4f67-4838-aec4-3c44135ca068",
+      "label": "restructuring_expect",
+      "description": "restructuring_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "cbf1cb65-b415-4f22-8c1a-086fbf149dbe",
+      "label": "restructuring_expect_unchanged",
+      "description": "restructuring_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "61ac48f7-19bc-4de6-9feb-314e4e52d786",
+      "label": "restructuring_expect_increase",
+      "description": "restructuring_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a98e7a36-ad8f-4f3c-aa66-6069163a20db",
+      "label": "restructuring_expect_decrease",
+      "description": "restructuring_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "25994117-99c3-4944-ad43-a8ff1b9fc000",
+      "label": "restructuring_other",
+      "description": "restructuring_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "f9539e71-0e70-4c86-a7c9-95b3843bbcfc",
+      "label": "new_product_development_actual",
+      "description": "new_product_development_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "be208195-9c5b-4893-8a17-056fba0f0b24",
+      "label": "new_product_development_actual_unchanged",
+      "description": "new_product_development_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "5febfe1b-c7ce-407b-8713-9b1c4498f5a4",
+      "label": "new_product_development_actual_increase",
+      "description": "new_product_development_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "85eba856-1766-4d54-83cc-d87db5468827",
+      "label": "new_product_development_actual_decrease",
+      "description": "new_product_development_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c4859969-ef8d-46ab-bf83-a4f50002d2df",
+      "label": "new_product_development_expect",
+      "description": "new_product_development_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "f115c96f-e2a4-4b48-97dd-cd2cee84124f",
+      "label": "new_product_development_expect_unchanged",
+      "description": "new_product_development_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a728e75d-35fd-4ba8-8d56-0b181e89927c",
+      "label": "new_product_development_expect_increase",
+      "description": "new_product_development_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "78eba2e7-c3a8-4e0e-b0da-69cfebe17f06",
+      "label": "new_product_development_expect_decrease",
+      "description": "new_product_development_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "07c33e85-ec82-40b8-b859-ba697c652b94",
+      "label": "new_product_development_other",
+      "description": "new_product_development_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ded2c254-a332-4507-a5e8-e9e7068ea7c5",
+      "label": "new_product_launch_actual",
+      "description": "new_product_launch_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "5396bfae-d7f5-456d-a1ef-61905f2fe0d5",
+      "label": "new_product_launch_expect",
+      "description": "new_product_launch_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "b5262789-427a-4a57-91e8-4a1a8658089f",
+      "label": "new_product_launch_other",
+      "description": "new_product_launch_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "77e97898-80e9-4962-ac20-28a4712e4018",
+      "label": "price_level_actual",
+      "description": "price_level_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "2581c6c7-4e24-4771-8f7c-a055707b4441",
+      "label": "price_level_actual_unchanged",
+      "description": "price_level_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "97c7b910-0817-46af-9439-843214d8741a",
+      "label": "price_level_actual_increase",
+      "description": "price_level_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "837e62f2-a16e-469b-a4cc-0800cf891756",
+      "label": "price_level_actual_decrease",
+      "description": "price_level_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c20a6679-ec50-433d-a11b-f26e45993f8b",
+      "label": "price_level_expect",
+      "description": "price_level_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "459fd932-a8b5-4f0e-b40b-4ef10ca2bc37",
+      "label": "price_level_expect_unchanged",
+      "description": "price_level_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "05e464b3-195f-45b0-a26b-1de7f024e802",
+      "label": "price_level_expect_increase",
+      "description": "price_level_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "4a6db239-6bd9-4bb8-b301-c33c5f480166",
+      "label": "price_level_expect_decrease",
+      "description": "price_level_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "718b6307-0312-43ff-8858-2af9f2ca79cc",
+      "label": "price_level_other",
+      "description": "price_level_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "f1cd282d-e887-434b-8197-76837275eb6b",
+      "label": "working_capital_actual",
+      "description": "working_capital_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "2b545e3f-6704-4a35-ba39-29cc837c64a8",
+      "label": "working_capital_actual_unchanged",
+      "description": "working_capital_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "89dcc002-7bef-4739-9728-d3cd0cef8319",
+      "label": "working_capital_actual_increase",
+      "description": "working_capital_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "9ca17794-b8cc-46ca-b674-2ea8b0c7b6f8",
+      "label": "working_capital_actual_decrease",
+      "description": "working_capital_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "71075121-f1a1-46ea-b0bd-d94ee4645316",
+      "label": "working_capital_expect",
+      "description": "working_capital_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "e8eae653-9eed-40a4-b22b-3eb8c66c3cf1",
+      "label": "working_capital_expect_unchanged",
+      "description": "working_capital_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "02a1a462-3fec-46b3-8216-ccae05b9fadf",
+      "label": "working_capital_expect_increase",
+      "description": "working_capital_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ca33d6c8-beee-4ba9-95d1-ddb2a65e2045",
+      "label": "working_capital_expect_decrease",
+      "description": "working_capital_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "def9e693-df5c-48b6-9319-425f0b8fe5bf",
+      "label": "working_capital_other",
+      "description": "working_capital_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a0c1e2e2-8447-4b89-89ec-4242ce8f81dc",
+      "label": "tax_actual",
+      "description": "tax_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "4ca7af36-b92b-4f05-b7d3-99d13b78f1c3",
+      "label": "tax_actual_unchanged",
+      "description": "tax_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "9f04569c-59b8-4c62-bab0-1649fe838796",
+      "label": "tax_actual_increase",
+      "description": "tax_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "9d8b19ad-01f1-4515-9f23-1cdcd933c8c9",
+      "label": "tax_actual_decrease",
+      "description": "tax_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ae951a63-8398-46ea-90b5-f55eb3a2faa1",
+      "label": "tax_expect",
+      "description": "tax_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "f1f825d2-f1e2-4b0d-8c5e-afdccc7b73f9",
+      "label": "tax_expect_unchanged",
+      "description": "tax_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a1ea29a7-dfd9-4fdb-b3f1-7d5903c03df4",
+      "label": "tax_expect_increase",
+      "description": "tax_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "8c0b42a0-1eb4-43db-b324-49afb3d5555f",
+      "label": "tax_expect_decrease",
+      "description": "tax_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "52536928-2edd-4718-997e-237ac67d099b",
+      "label": "tax_other",
+      "description": "tax_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "9568cc01-0f66-4f98-ada1-5d10dacefa9d",
+      "label": "receivables_actual",
+      "description": "receivables_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "448cf14c-45ef-4457-8163-0c0be15b2357",
+      "label": "receivables_actual_unchanged",
+      "description": "receivables_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "919f8b01-32e2-4b56-985c-a04ddac9b01d",
+      "label": "receivables_actual_increase",
+      "description": "receivables_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "129f0229-b487-4d3e-9ef1-d38143b9070b",
+      "label": "receivables_actual_decrease",
+      "description": "receivables_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "04da15df-a983-484d-9766-529c33da039a",
+      "label": "receivables_expect",
+      "description": "receivables_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c8aac2a1-b42b-481c-ae28-a3e38d682860",
+      "label": "receivables_expect_unchanged",
+      "description": "receivables_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "4ae4a5bf-5b86-4bca-b733-251f2120b58d",
+      "label": "receivables_expect_increase",
+      "description": "receivables_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "d225ef04-c198-46ef-b1d3-1e2835a0b0f2",
+      "label": "receivables_expect_decrease",
+      "description": "receivables_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c75da584-43aa-4e95-926a-c1db4c5d7979",
+      "label": "receivables_other",
+      "description": "receivables_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "003934c9-c195-46a0-bb3b-c448e95a33a3",
+      "label": "payables_actual",
+      "description": "payables_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "17ab2fe6-9b9c-4a53-9368-8e2412347525",
+      "label": "payables_actual_unchanged",
+      "description": "payables_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "83d219d2-d3bf-467f-998c-83f79f864dc0",
+      "label": "payables_actual_increase",
+      "description": "payables_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "90802d72-c426-4bc6-aae6-682168842b5a",
+      "label": "payables_actual_decrease",
+      "description": "payables_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "6eaeed30-7e2f-4784-ab87-d7bce9a2550c",
+      "label": "payables_expect",
+      "description": "payables_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "88f5379d-adb2-4fcf-bb80-78aefc290de0",
+      "label": "payables_expect_unchanged",
+      "description": "payables_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "0f04f31e-5c58-4c1b-ba49-bc7cdeaa4ce9",
+      "label": "payables_expect_increase",
+      "description": "payables_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "0080db6d-5131-4e76-86df-0e2e8b18bdac",
+      "label": "payables_expect_decrease",
+      "description": "payables_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "e952f9c4-638d-43e2-b1e7-15a1b4131dc6",
+      "label": "payables_other",
+      "description": "payables_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c5e51c25-4fda-4fe4-b02e-d1aef2b0bd10",
+      "label": "inventory_actual",
+      "description": "inventory_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "92d3de40-2dc7-4962-b4c6-e32f384b9a5f",
+      "label": "inventory_actual_unchanged",
+      "description": "inventory_actual_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "6277a95b-4bdf-4863-9ab1-b73a94578996",
+      "label": "inventory_actual_increase",
+      "description": "inventory_actual_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "3c6a2877-6c9b-4b38-aa70-23466699eeeb",
+      "label": "inventory_actual_decrease",
+      "description": "inventory_actual_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "ccef3331-5529-41fe-896b-81fe4315518d",
+      "label": "inventory_expect",
+      "description": "inventory_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "8c833a0f-a29d-4b6d-86a6-72d889a237ac",
+      "label": "inventory_expect_unchanged",
+      "description": "inventory_expect_unchanged",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "78ea5f79-8183-42f9-95f0-916e0170dd11",
+      "label": "inventory_expect_increase",
+      "description": "inventory_expect_increase",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "a7a5b767-c188-4489-9fa2-7714b5201045",
+      "label": "inventory_expect_decrease",
+      "description": "inventory_expect_decrease",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "da7bca2e-7bf7-4feb-bdd2-9452fc47656b",
+      "label": "inventory_other",
+      "description": "inventory_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "066e9ce7-b492-48f1-a702-fabc84ecec5f",
+      "label": "plant_conversion_actual",
+      "description": "plant_conversion_actual",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "c43dd31d-c5dc-4268-86b8-7f009410e799",
+      "label": "plant_conversion_expect",
+      "description": "plant_conversion_expect",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "12ca439d-56ad-4926-b572-b1cd26f3ea19",
+      "label": "plant_conversion_other",
+      "description": "plant_conversion_other",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "eedb1171-a65e-4771-9c97-abfb1bbfd2a4",
+      "label": "no_event",
+      "description": "no_event",
+      "children": [
+        
+      ]
+    }
+  ]
+}

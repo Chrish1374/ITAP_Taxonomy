@@ -1,0 +1,162 @@
+{
+  "data": [
+    {
+      "id": "1e1f3e34-c9d5-11eb-b8bc-0242ac130003",
+      "label": "HardWare",
+      "description": "Hardware",
+      "children": [
+        {
+          "id": "1e1f3e34-c925-11eb-b8bc-0242ac130003",
+          "label": "POS",
+          "description": "POS",
+          "children": [
+            
+          ]
+          
+        },
+        {
+          "id": "1e1f3e34-c935-11eb-b8bc-0242ac130003",
+          "label": "Computer",
+          "description": "Computer",
+          "children": [
+            
+          ]
+          
+        },
+        {
+          "id": "1e1f3e34-c945-11eb-b8bc-0242ac130003",
+          "label": "TV",
+          "description": "TV",
+          "children": [
+            
+          ]
+          
+        }
+      ]
+    },
+    {
+      "id": "3510e49e-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Cloths",
+      "description": "Cloths",
+      "children": [
+        {
+          "id": "3510e49e-c9d5-12eb-b8bc-0242ac130003",
+          "label": "Peter",
+          "description": "Peter",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "3510e49e-c9d5-13eb-b8bc-0242ac130003",
+          "label": "UCB",
+          "description": "UCB",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "3510e49e-c9d5-14eb-b8bc-0242ac130003",
+          "label": "Levis",
+          "description": "Levis",
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d053de5a-c9d2-11eb-b8bc-0242ac130003",
+      "label": "Fast Food",
+      "description": "Fast Food",
+      "children": [
+        {
+          "id": "4977f6ae-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Subway",
+          "description": "Subway",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977f956-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Mcdonald",
+          "description": "Mcdonald's",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977fa28-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Starbucks",
+          "description": "Starbucks",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977faf0-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Pizza Hut",
+          "description": "Pizza Hut",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977fbb8-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Burger King",
+          "description": "Burger King",
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4977fc76-c9d3-11eb-b8bc-0242ac130003",
+      "label": "Industries",
+      "description": "Industries",
+      "children": [
+        {
+          "id": "4977f30c-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Pharma",
+          "description": "Pharma",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977f5b4-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Car",
+          "description": "Car",
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "738edb00-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Country",
+      "description": "Country",
+      "children": [
+        {
+          "id": "838edb00-c9d5-11eb-b8bc-0242ac130003",
+          "label": "USA",
+          "description": "USA",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "938edb00-c9d5-11eb-b8bc-0242ac130003",
+          "label": "Japan",
+          "description": "Japan",
+          "children": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

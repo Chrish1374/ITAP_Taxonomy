@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "label": "Carpinteria",
+      "description": "Carpinteria",
+      "children": [
+        {
+          "id": "5",
+          "label": "Arroz",
+          "description": "Arroz",
+          "children": [
+            {
+              "id": "8",
+              "label": "gradoA",
+              "description": "gradoA",
+              "children": [
+                
+              ]
+            },        {
+              "id": "9",
+              "label": "gradoB",
+              "description": "gradoB",
+              "children": [
+                
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "label": "Uvas",
+          "description": "Uvas",
+          "children": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "label": "Electricidad",
+      "description": "Electricidad",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "3",
+      "label": "Reposteria",
+      "description": "Reposteria",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "4",
+      "label": "Otros",
+      "description": "Otros",
+      "children": [
+        
+      ]
+    }
+  ]
+}

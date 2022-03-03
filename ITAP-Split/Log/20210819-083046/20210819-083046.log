@@ -1,0 +1,24 @@
+
+Input file name : 20210819-074715.csv
+Split file name : Q1_2013_Huntington_Ingalls_Industries,_Inc._Earnings_Conference_Call.csv
+No of records : 461/461
+Log : Output already exist.
+
+Input file name : 20210819-074715.csv
+Split file name : Q2_2014_ATS_Automation_Tooling_Systems_Inc_Earnings_Conference_Call.csv
+No of records : 321/321
+
+Input file name : 20210819-074715.csv
+Split file name : Q2_2016_EnLink_Midstream_LLC_and_EnLink_Midstream_Partners_LP_Earnings_Call.csv
+No of records : 0/280
+Log : Completed date is not available
+
+Input file name : 20210819-074715.csv
+Split file name : Q2_2018_Deutsche_Bank_AG_Earnings_Call_(Fixed_Income_Investor).csv
+No of records : 0/343
+Log : Completed date is not available
+
+Input file name : 20210819-074715.csv
+Split file name : Q3_2012_Coca-Cola_Hellenic_Bottling_Company_S.A._Earnings_Conference_Call.csv
+No of records : 0/417
+Log : Completed date is not available

@@ -1,0 +1,248 @@
+{
+  "data": [
+    {
+      "id": "1e1f3e34-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Funds Scenario 1",
+      "description": "Funds",
+      "children": [
+        {
+          "id": "1e1f3e34-c9d5-11eb-b8bc-024130003",
+          "label": "Funds 1",
+          "description": "Funds",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "1e14-c9d5-11eb-b8bc-0242ac130003",
+          "label": "Funds 2",
+          "description": "Funds",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 3,
+      "max": 0
+    },
+    {
+      "id": "3510e49e-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Sales scenario 2",
+      "description": "Sales",
+      "children": [
+        {
+          "id": "3510e49e-c9d5-11eb-c-0242ac130003",
+          "label": "Sales 1",
+          "description": "Sales",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "3510e4e-c9d5-11eb-b8bc-0c130003",
+          "label": "Sales 2",
+          "description": "Sales",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 0,
+      "max": 3
+    },
+    {
+      "id": "4610e49e-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Salary Scenario 3",
+      "description": "Salary",
+      "children": [
+        {
+          "id": "46149e-c9d5-1b-b8bc-0242ac133",
+          "label": "Salary 1",
+          "description": "Salary",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4109e-c9d5-11eb-b8bc-02ac130003",
+          "label": "Salary 2",
+          "description": "Salary",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 2,
+      "max": "b"
+    },
+    {
+      "id": "638edb00-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Unit scenario 4",
+      "description": "Unit",
+      "children": [
+        
+      ],
+      "min": "A",
+      "max": "#"
+    },
+    {
+      "id": "4977fc76-c9d3-11eb-b8bc-0242ac130003",
+      "label": "Tax Scenario 5",
+      "description": "Tax",
+      "children": [
+        
+      ]
+    },
+    {
+      "id": "28-c9d3-11eb-b8bc-0242ac130003",
+      "label": "Mid Income Scenario 6",
+      "description": "Income for Mid",
+      "children": [
+        
+      ],
+      "min": 0,
+      "max": 0
+    },
+    {
+      "id": "d053de5a-c9d2-11eb-b8bc-0242ac130003",
+      "label": "Government Scenario 7",
+      "description": "Government",
+      "children": [
+        {
+          "id": "4977f30c-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Subsidies",
+          "description": "Subsidies",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977f5b4-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Assets",
+          "description": "Assets",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977fd34-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Expenditure",
+          "description": "Expenditure",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 5,
+      "max": 4
+    },
+    {
+      "id": "4510e49e-c9d5-11eb-b8bc-0242ac130003",
+      "label": "Wages scenario 8",
+      "description": "Wages",
+      "children": [
+        {
+          "id": "4977f6ae-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Employees",
+          "description": "Employees",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977f956-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Tangible Assets",
+          "description": "Tangible Assets",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4977fa28-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Income for The UK",
+          "description": "Income",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 4,
+      "max": 5
+    },
+    {
+      "id": "c9d3-11eb-b8bc-0242ac130003",
+      "label": "High Income Scenario 9 ",
+      "description": "Income for High",
+      "children": [
+        {
+          "id": "77fa28-c9d3-11eb-b8bc-0242ac130003",
+          "label": "Low Income 1",
+          "description": "Income for Low",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "77f8-c9d3-11eb-b8bc-0130003",
+          "label": "Low Income 2",
+          "description": "Income for Low",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 2,
+      "max": 4
+    },
+    {
+      "id": "449e-c9d5-11eb-0242ac130003",
+      "label": "sector Scenario 10",
+      "description": "Sector",
+      "children": [
+        {
+          "id": "46149e-c9db8bc-0242ac133",
+          "label": "sector 1",
+          "description": "Salary",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4109e-c9d5b-b8bc-02ac130003",
+          "label": "sector 2",
+          "description": "Salary",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 3,
+      "max": 3
+    },
+    {
+      "id": "4e49e-c9d5-11eb-b8bc-02003",
+      "label": "Salary Scenario Min>Max",
+      "description": "Salary",
+      "children": [
+        {
+          "id": "46149e-1b-b8bc-0242ac133",
+          "label": "Salary 1",
+          "description": "Salary",
+          "children": [
+            
+          ]
+        },
+        {
+          "id": "4109e-c9d5-11bc-02ac130003",
+          "label": "Salary 2",
+          "description": "Salary",
+          "children": [
+            
+          ]
+        }
+      ],
+      "min": 2,
+      "max": 1
+    }
+  ]
+}

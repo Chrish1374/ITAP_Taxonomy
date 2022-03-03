@@ -1,0 +1,69 @@
+{
+	"data": {
+		"categories": [
+			{
+				"id": "cd20f0ce-c0a8-412f-a2ae-92987f5a8f52",
+				"label": "Living_Object",
+				"description": "Living Object",
+				"color": "#FF0000",
+				"children": []
+			},
+			{
+				"id": "475aab1a-509b-4da7-9f65-8bb6e2e609be",
+				"label": "Person",
+				"description": "Person",
+				"color": "#00FFFF",
+				"children": []
+			},
+			{
+				"id": "8a4c326d-fc27-4450-9922-8fcff0aeaec6",
+				"label": "Human_Face",
+				"description": "Human Face",
+				"color": "#0000FF",
+				"children": []
+			},
+			{
+				"id": "f3f1527b-6cd9-4e2d-a2dc-3b8d7303b0b0",
+				"label": "Animal",
+				"description": "Animal",
+				"color": "#800080",
+				"children": []
+			},
+			{
+				"id": "8790492b-4c44-4b80-ba1a-dec5911fcb74",
+				"label": "Bird",
+				"description": "Bird",
+				"color": "#FFFF00",
+				"children": []
+			},
+			{
+				"id": "ebb812b2-511d-49e6-bba7-efa9d9700566",
+				"label": "Plant",
+				"description": "Plant",
+				"color": "#00FF00",
+				"children": []
+			},
+			{
+				"id": "37010bf8-afb3-4ffa-bbcf-607e689dadf3",
+				"label": "Food",
+				"description": "Food",
+				"color": "#FF00FF",
+				"children": []
+			},
+			{
+				"id": "2ebe084e-6aa8-4ba9-9d32-d4d3e62bba46",
+				"label": "Basket",
+				"description": "Basket",
+				"color": "#008000",
+				"children": []
+			},
+			{
+				"id": "ff9fd5ba-042f-4aa1-81bc-fa92e2758d5e",
+				"label": "Shopping_Bag",
+				"description": "Shopping Bag",
+				"color": "#808000",
+				"children": []
+			}
+		]
+	}
+}

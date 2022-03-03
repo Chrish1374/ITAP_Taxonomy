@@ -1,0 +1,110 @@
+{
+	"data": [
+		{
+			"id": "1e1f3e34-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Category A",
+			"description": "Category A",
+			"children": [],
+			"min" : 1,
+			"max": 2
+		},
+		{
+			"id": "3510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Category B",
+			"description": "Category B",
+			"children": [],
+			"min" : 1,
+			"max":  "A"
+		},
+		{
+			"id": "d053de5a-c9d2-11eb-b8bc-0242ac130003",
+			"label": "Catgeory C",
+			"description": "Catgeory C",
+			"min" : 2,
+			"max" : 4,
+			"children": [
+				{
+					"id": "4977f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Sandwich",
+					"description": "Sandwich",
+					"children": []
+				},
+				{
+					"id": "4977f5b4-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Fast Food",
+					"description": "Fast Food",
+					"children": [
+						{
+							"id": "4977f6ae-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Subway",
+							"description": "Subway",
+							"children": []
+						},
+						{
+							"id": "4977f956-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Mcdonald",
+							"description": "Mcdonald's",
+							"children": []
+						},
+						{
+							"id": "4977fa28-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Starbucks",
+							"description": "Starbucks",
+							"children": []
+						},
+						{
+							"id": "4977faf0-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Pizza Hut",
+							"description": "Pizza Hut",
+							"children": []
+						},
+						{
+							"id": "4977fbb8-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Burger King",
+							"description": "Burger King",
+							"children": []
+						}
+					]
+				},
+				{
+					"id": "4977fd34-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Dinner",
+					"description": "Dinner",
+					"children": []
+				}
+			]
+		},
+		{
+			"id": "4977fc76-c9d3-11eb-b8bc-0242ac130003",
+			"label": "Category D",
+			"description": "Category D",
+			"children": [],
+			"min" : "A",
+			"max":  1
+		},
+		{
+			"id": "738edb00-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Category E",
+			"description": "Category E",
+			"children": [],
+			 "min" : 1,
+			 "max" : ""
+		},
+		{
+			"id": "838edb00-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Category F",
+			"description": "Category F",
+			"children": [],
+			 "min" : "",
+			 "max" : ""
+		},
+		{
+			"id": "938edb00-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Category G",
+			"description": "Category G",
+			"children": [],
+			"min" : 1,
+			"max" : 1
+		}
+	]
+}

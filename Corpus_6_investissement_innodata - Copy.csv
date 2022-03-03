@@ -1,0 +1,515 @@
+innodata_id,Unnamed: 0,_index,contact_date,lang,type_reponse_mec,document_cleaned,innodata_document_cleaned,ai_INVT_multilabel
+1,3467,insatisfaction_gdi_fr,2021-01-26T09:49:22.000-0500,FR,,client a fait un échange de 60.000 pts  au courtage et 120pts a été crédité son compte . je la réfère a courtage mais le temps d attente est d 1h15min . elle dit avoir attendu 2h pour échanger ses points et ne comprends pas que le temps d attente soit aussi élevé et voudrait passer le commentaire ,client a fait un échange de 60.000 pts  au courtage et 120pts a été crédité son compte . je la réfère a courtage mais le temps d attente est d 1h15min . elle dit avoir attendu 2h pour échanger ses points et ne comprends pas que le temps d attente soit aussi élevé et voudrait passer le commentaire ,['bncd']
+1,3372,insatisfaction_gdi_fr,2021-02-01T12:23:11.000-0500,FR,,la cliente est assez déçu que courtage demande au client de s'inscrire pour recevoir les informations alors que cette dernière devrait avoir accès a l'information sans pour autant s'Abonner  ,la cliente est assez déçu que courtage demande au client de s'inscrire pour recevoir les informations alors que cette dernière devrait avoir accès a l'information sans pour autant s'Abonner  ,['bncd']
+1,230,insatisfaction_appbot_fr,2017-06-28T00:00:00,,, Facile à utiliser. Le dépôt mobile et les virements sont simples à faire. J'aimerais voir une application ou un module pour transiger les titres de Banque Nationale Courtage Direct., Facile à utiliser. Le dépôt mobile et les virements sont simples à faire. J'aimerais voir une application ou un module pour transiger les titres de Banque Nationale Courtage Direct.,"['bncd', 'exp_num']"
+1,61,insatisfaction_appbot_fr,2019-06-25T00:00:00,,,"Accès compte courtageDepuis la mise à jour, je n’ai plus accès à mon compte de courtage sur mon bilan...!?
+
+Décevant!
+
+C’est maintenant réglé. Merci.","Accès compte courtageDepuis la mise à jour, je n’ai plus accès à mon compte de courtage sur mon bilan...!?  Décevant!  C’est maintenant réglé. Merci.",['bncd']
+1,7638,insatisfaction_mec_fr,2021-01-01T14:22:05,FR,insatisfaction,J’ai attendu environ une heure pour parler avec quelqu’un chez Courtage direct.,J’ai attendu environ une heure pour parler avec quelqu’un chez Courtage direct.,['bncd']
+2,2709,insatisfaction_gdi_fr,2021-01-27T10:44:51.000-0500,FR,,Le client trouve que chez courtage direct le temps d'attente est trop long. Et que nous devrions offrir l'option de rappeler les clients. Il trouve que d'attendre un heure avec un menu automatisé c'est poche. ,Le client trouve que chez courtage direct le temps d'attente est trop long. Et que nous devrions offrir l'option de rappeler les clients. Il trouve que d'attendre un heure avec un menu automatisé c'est poche. ,['bncd']
+2,8063,insatisfaction_mec_fr,2021-02-25T15:23:31,FR,apprécié,Amabilité du personnel et efficacité du système informatique (courtage direct et guichet automatique),Amabilité du personnel et efficacité du système informatique (courtage direct et guichet automatique),['bncd']
+2,1680,insatisfaction_gdi_fr,2021-05-18T12:35:15.000-0400,FR,,"Bonjour,_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+La présente fait suite à une plainte adressée par l’un de vos clients au Bureau de l’ombudsman des clients._x000D_
+_x000D_
+ _x000D_
+_x000D_
+*Coordonnées du client*_x000D_
+_x000D_
+ _x000D_
+_x000D_
+Nom : (NAME)_x000D_
+_x000D_
+Numéro de FCC : CROTP(NAS)_x000D_
+_x000D_
+Numéro de téléphone :  (PHONE)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+*Plainte* : (NAME) fait part du délai de traitement du transfert de ses REER de BNI au Courtage BN. Ledit transfert d'un total de± (PRIVATE NO.) $ était initié en mars (PRIVATE NO.) et est toujours en cours de traitement. (NAME) dit avoir à plusieurs reprises contacté BNI à cet égard, était informée que sa demande était  en cours d'une révision ou escaladée à un niveau supérieur. Toutefois, le transfert n'est toujours pas  finalisé. Veuillez prendre connaissance de la pièce ci-jointe_x000D_
+_x000D_
+ _x000D_
+_x000D_
+*Attentes :* Demande de finaliser le transfert dans les meilleurs délais. En attente d'un suivi","Bonjour,              La présente fait suite à une plainte adressée par l’un de vos clients au Bureau de l’ombudsman des clients.         *Coordonnées du client*         Nom : (NAME)    Numéro de FCC : CROTP(NAS)    Numéro de téléphone :  (PHONE)         *Plainte* : (NAME) fait part du délai de traitement du transfert de ses REER de BNI au Courtage BN. Ledit transfert d'un total de± (PRIVATE NO.) $ était initié en mars (PRIVATE NO.) et est toujours en cours de traitement. (NAME) dit avoir à plusieurs reprises contacté BNI à cet égard, était informée que sa demande était  en cours d'une révision ou escaladée à un niveau supérieur. Toutefois, le transfert n'est toujours pas  finalisé. Veuillez prendre connaissance de la pièce ci-jointe         *Attentes :* Demande de finaliser le transfert dans les meilleurs délais. En attente d'un suivi",['bncd']
+2,9280,insatisfaction_mec_fr,2021-07-15T13:45:34,FR,à améliorer,"La BN est ""correcte"" mais ne se démarque pas. Rien ne me retient sauf que les autres banques ne sont pas mieux.Par exemple, la dernière fois que j'ai voulu rencontrer ""mon"" conseiller, j'ai appris qu'on m'avait changé de conseiller sans m'informer ; j'appèle ça traiter les gens comme du bétail!Pour ce qui est de Banque Nationale Courtage Direct, j'ai trouvé TRÈS cavalière la façon qu'on a eu de fusionner certains fonds récemment. Entre autres, on me force à changer pour un fonds nouvellement créé donc je n'ai aucun moyen de savoir si je devrais m'attendre à être satisfait de ce nouveau fonds.","La BN est ""correcte"" mais ne se démarque pas. Rien ne me retient sauf que les autres banques ne sont pas mieux.Par exemple, la dernière fois que j'ai voulu rencontrer ""mon"" conseiller, j'ai appris qu'on m'avait changé de conseiller sans m'informer ; j'appèle ça traiter les gens comme du bétail!Pour ce qui est de Banque Nationale Courtage Direct, j'ai trouvé TRÈS cavalière la façon qu'on a eu de fusionner certains fonds récemment. Entre autres, on me force à changer pour un fonds nouvellement créé donc je n'ai aucun moyen de savoir si je devrais m'attendre à être satisfait de ce nouveau fonds.",['bncd']
+2,755,insatisfaction_gdi_fr,2020-02-17T17:13:28.000-0500,FR,,"Une demande de transfert de CDBN vers BNI a été demandée. Nous avons demandée par erreur un transfert total plutôt que partiel, générant des ventes de 5 actions non désirées par le client. En correction, le client en a rachetée 2 mais a décidé de ne pas racheter les 3 autres. Nous allons rembourser le client pour les frais de transaction inhérent ainsi que la différence de prix entre la vente et les achats des actions qu'il a réacquises (309,65$). Le client nous réclame maintenant (PRIVATE NO.)$ en dommage et intérêts sous prétexte que ces transactions l'ont stressés et, de plus, il dit qu'il sera peut-être considéré comme investisseur actif advenant qu'il dépasse 100 transactions dans son année et nous dit qu'en raison de notre erreur, il a perdu 7 transactions qui auraient pu lui rapporter.","Une demande de transfert de CDBN vers BNI a été demandée. Nous avons demandée par erreur un transfert total plutôt que partiel, générant des ventes de 5 actions non désirées par le client. En correction, le client en a rachetée 2 mais a décidé de ne pas racheter les 3 autres. Nous allons rembourser le client pour les frais de transaction inhérent ainsi que la différence de prix entre la vente et les achats des actions qu'il a réacquises (309,65$). Le client nous réclame maintenant (PRIVATE NO.)$ en dommage et intérêts sous prétexte que ces transactions l'ont stressés et, de plus, il dit qu'il sera peut-être considéré comme investisseur actif advenant qu'il dépasse 100 transactions dans son année et nous dit qu'en raison de notre erreur, il a perdu 7 transactions qui auraient pu lui rapporter.","['bncd', 'frais']"
+2,12826,insatisfaction_succursales_fr,2019-09-05T00:00:00,,,"Le client a signé une T(PRIVATE NO.) visant les actifs détenus dans son compte Ferr auprès de CDBN. Le formulaire était incomplet et non daté au moment de la signature par le client. Sa représentante ne lui aurait pas indiqué les frais encourus dans le cadre cette transaction. CDBN a avisé le client des frais, le client a requis l'annulation du transfert. Malgré cette demande le transfert a été exécuté.","Le client a signé une T(PRIVATE NO.) visant les actifs détenus dans son compte Ferr auprès de CDBN. Le formulaire était incomplet et non daté au moment de la signature par le client. Sa représentante ne lui aurait pas indiqué les frais encourus dans le cadre cette transaction. CDBN a avisé le client des frais, le client a requis l'annulation du transfert. Malgré cette demande le transfert a été exécuté.","['frais', 'bncd']"
+2,3607,insatisfaction_gdi_fr,2021-05-11T20:43:12.000-0400,FR,,le client voudrait savoir pourquoi ne peut-il par se faire des transactions de courtage direct par lui même  de son compte chèque par son application  il essayait de le faire par virement interact et je lui ai expliqué que c'était pas possible de cette façon.,le client voudrait savoir pourquoi ne peut-il par se faire des transactions de courtage direct par lui même  de son compte chèque par son application  il essayait de le faire par virement interact et je lui ai expliqué que c'était pas possible de cette façon.,"['exp_num', 'bncd']"
+2,9043,insatisfaction_mec_fr,2020-04-11T12:59:00,FR,insatisfaction,le site du courtage le cour des section en bourse n'est pas afficher en temps réelle les délais en l'actualisation et le cout réelle en bourse est de 15 minutes.,le site du courtage le cour des section en bourse n'est pas afficher en temps réelle les délais en l'actualisation et le cout réelle en bourse est de 15 minutes.,"['frais', 'exp_num', 'delai', 'bncd']"
+3,9539,insatisfaction_outil_vsd_fr,2019-08-12T00:00:00,,,"cliente insatisfait des delais de traitement pour ses placements faite en succursale. A date cliente attend toujours pour un trasfert de ces placement. On lui a dit en succ que cela allait prendre 3 semaines et les delais sont passé et mme attend toujours. Dans le passé mme avait des reer avec courtage bnc et on lui a dit de trasferer a investissement bnc, mais il y a eu plusieurs erreur durant le traitement et mme a du perdre du temps a allé en succ et entre temps elle perdais de l'argent et finalement sa confiance dans la banque nationale. C'était pas une bonne experience et mme ne comptend pas pourquoi les delais sont si long.","cliente insatisfait des delais de traitement pour ses placements faite en succursale. A date cliente attend toujours pour un trasfert de ces placement. On lui a dit en succ que cela allait prendre 3 semaines et les delais sont passé et mme attend toujours. Dans le passé mme avait des reer avec courtage bnc et on lui a dit de trasferer a investissement bnc, mais il y a eu plusieurs erreur durant le traitement et mme a du perdre du temps a allé en succ et entre temps elle perdais de l'argent et finalement sa confiance dans la banque nationale. C'était pas une bonne experience et mme ne comptend pas pourquoi les delais sont si long.","['bncd', 'delai']"
+3,2886,insatisfaction_gdi_fr,2021-09-02T13:54:55.000-0400,FR,,"Client mécontent. Il a adhéré à un CPGLM banques canadiennes au mois d'avril, il dit ne pas avoir été informé que son capital était garanti qu'à l'échéance. (conseillère me confirme qu'elle lui a mentionné) Il ne cesse de perdre depuis. Client a été rencontré par la conseillère assisté de notre pf pour bien lui réexpliquer. J'ai moi aussi rencontré le client et je l'ai rappelé après avoir eu un coaching avec notre dda bni pour bien lui expliquer le produit. Il revient à la charge avec le courriel ci-joint et demande un dédommagement sous peine de tout retirer ses investissements bnc et cdbn.","Client mécontent. Il a adhéré à un CPGLM banques canadiennes au mois d'avril, il dit ne pas avoir été informé que son capital était garanti qu'à l'échéance. (conseillère me confirme qu'elle lui a mentionné) Il ne cesse de perdre depuis. Client a été rencontré par la conseillère assisté de notre pf pour bien lui réexpliquer. J'ai moi aussi rencontré le client et je l'ai rappelé après avoir eu un coaching avec notre dda bni pour bien lui expliquer le produit. Il revient à la charge avec le courriel ci-joint et demande un dédommagement sous peine de tout retirer ses investissements bnc et cdbn.","['bncd', 'frais']"
+3,12763,insatisfaction_succursales_fr,2017-10-13T00:00:00,,,"Suite transfert CPG de BNCD j'ai oublié de faire annulé le retrait systématique du compte de courtage, ce qui a entrainé la vente d'un produit que la cliente désirait garder.","Suite transfert CPG de BNCD j'ai oublié de faire annulé le retrait systématique du compte de courtage, ce qui a entrainé la vente d'un produit que la cliente désirait garder.",['bncd']
+3,1602,insatisfaction_gdi_fr,2021-06-03T17:04:45.000-0400,FR,,La cliente a appelé le 22.04.(PRIVATE NO.) pour faire une achat BNI et transférer son REER CDBN vers REER BNI. Lors de l'appel j ai confirmé a la cliente à deux reprises le montant a transféré et aussi j ai mentionné qu'on va transférer la totalité de son compte REER CDBN. Pouvez vous écouter l'appel car madame dit qu'elle a pas demandé de retirer la totalité. Merci ,La cliente a appelé le 22.04.(PRIVATE NO.) pour faire une achat BNI et transférer son REER CDBN vers REER BNI. Lors de l'appel j ai confirmé a la cliente à deux reprises le montant a transféré et aussi j ai mentionné qu'on va transférer la totalité de son compte REER CDBN. Pouvez vous écouter l'appel car madame dit qu'elle a pas demandé de retirer la totalité. Merci ,['bncd']
+4,1518,insatisfaction_gdi_fr,2021-07-19T16:14:35.000-0400,FR,,clients ont des investissements chez BNCD en cpg non rachetables. clients ne sont pas autonomes et peu connaissant avec Internet. Frais trimestriel de 6$ pour état de compte papier. clients sont agés et ne sont pas confortables a migrer au relevé en ligne. BNCD refusent de les exempter des frais de relevé,clients ont des investissements chez BNCD en cpg non rachetables. clients ne sont pas autonomes et peu connaissant avec Internet. Frais trimestriel de 6$ pour état de compte papier. clients sont agés et ne sont pas confortables a migrer au relevé en ligne. BNCD refusent de les exempter des frais de relevé,"['bncd', 'frais']"
+4,8483,insatisfaction_mec_fr,2020-03-09T18:51:00,FR,à améliorer,"Améliorer le site internet de courtage en ligne, le site manque de fonctionnalités.","Améliorer le site internet de courtage en ligne, le site manque de fonctionnalités.",['bncd']
+4,12481,insatisfaction_succursales_fr,2017-04-06T00:00:00,,,T(PRIVATE NO.) OUT refus de BNC à courtage car les 2 CPG n'étaient pas échus,T(PRIVATE NO.) OUT refus de BNC à courtage car les 2 CPG n'étaient pas échus,['bncd']
+4,7293,insatisfaction_mec_fr,2018-12-15T16:34:00,FR,apprécié,"(NAME) a ouvert un compte courtage banque national, la transition c'est effectué très lentement et cela c'est réglé mais très longtemps","(NAME) a ouvert un compte courtage banque national, la transition c'est effectué très lentement et cela c'est réglé mais très longtemps",['bncd']
+4,1517,insatisfaction_gdi_fr,2021-07-19T16:56:47.000-0400,FR,,Documents signé par client pour ouverture compte CDBN pour transfert action du défunt ce sont perdu dans le courrier. Ni CDBN ou département succession à retourné la demande de services pour aviser conseiller en succursale. Ceci à causé un délai très long de traitement ,Documents signé par client pour ouverture compte CDBN pour transfert action du défunt ce sont perdu dans le courrier. Ni CDBN ou département succession à retourné la demande de services pour aviser conseiller en succursale. Ceci à causé un délai très long de traitement ,"['succession', 'bncd', 'delai']"
+4,3288,insatisfaction_gdi_fr,2021-04-14T10:11:55.000-0400,FR,," ** _x000D_
+_x000D_
+*From:* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>_x000D_
+ *Sent:* Monday, April 12, (PRIVATE NO.) 2:46:03 PM (UTC+00:00) (PLACE), (PLACE)_x000D_
+ *To:* plaintehautedirection <[(EMAIL)|mailto:(EMAIL)]>_x000D_
+ *Cc:* (NAME), (NAME) <[(NAME).D(EMAIL)|mailto:(NAME).D(EMAIL)]>_x000D_
+ *Subject:* RE: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)_x000D_
+_x000D_
+Merci (NAME),_x000D_
+_x000D_
+ _x000D_
+_x000D_
+En effet….j’avais pas réalisé que c’était lui à la Société Générale_x000D_
+_x000D_
+Merci de t’assurer de cela. Les feuillets fiscaux dans les successions ne sont souvent pas simples._x000D_
+_x000D_
+ _x000D_
+_x000D_
+LB_x000D_
+_x000D_
+ _x000D_
+_x000D_
+*De :* plaintehautedirection <[(EMAIL)|mailto:(EMAIL)]> _x000D_
+ *Envoyé :* 12 avril (PRIVATE NO.):04_x000D_
+ *À :* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>_x000D_
+ *Cc :* (NAME), (NAME) <[(NAME).D(EMAIL)|mailto:(NAME).D(EMAIL)]>_x000D_
+ *Objet :* RE: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+Bonjour,_x000D_
+_x000D_
+ _x000D_
+_x000D_
+J’ai communiqué avec le client vendredi dernier et je lui ai confirmé que j’allais m’assurer que son dossier se régularise rapidement. Par ailleurs, j’ai déjà communiqué avec les parties impliquées à la Banque, entre autres, VP opération investissement, ainsi que la directrice de section._x000D_
+_x000D_
+ _x000D_
+_x000D_
+Il m’a demandé de vous saluer, car il m’a dit que vous aviez déjà travaillé ensemble._x000D_
+_x000D_
+ _x000D_
+_x000D_
+Donc, vous pouvez considérer le dossier clos._x000D_
+_x000D_
+ _x000D_
+_x000D_
+Merci,_x000D_
+_x000D_
+(NAME)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+*(NAME) Rathé*_x000D_
+_x000D_
+Conseillère Senior / Senior Advisor_x000D_
+_x000D_
+Gestion de la satisfaction client / Customer care_x000D_
+_x000D_
+Transit: (PRIVATE NO.)-1_x000D_
+ (  (PHONE) ((ZIP) à l'interne/internally*)*_x000D_
+ @ [(EMAIL)|mailto:(EMAIL)]_x000D_
+_x000D_
+*Banque Nationale du Canada | National Bank of Canada*_x000D_
+_x000D_
+*600 de la Gauchetière Ouest, Montréal (Québec), (ZIP)*_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+Pour nous joindre, visitez [bnc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bnc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=aAsM1gXwH3XnLoSKK7f%2BIOyFGESMFjL3CMlIyCZPkiw%3D&reserved=0]. Pour vos options de désinscription, [cliquez ici|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.communicationsbnc.ca%2Fbnc%2Fretrait&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=cWftwmaVeEyTXaN%2FwKLhBL9t7qU0VHBkcsRlOQPjjt4%3D&reserved=0]. / To contact us, visit [nbc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nbc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=yBjRbL%2BumBZAbrfyWnre5bsVqu9A1PngimV0HtLZFe0%3D&reserved=0]+.+ For unsubscribe options, [click here|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nbccommunications.ca%2Fnbc%2Fwithdrawal&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=Auf6AfiH7ay87r%2BbIdNmKblyQ6KokAG0dIxg5hfm5BM%3D&reserved=0]._x000D_
+_x000D_
+Siège social|Head Office : 600, De La Gauchetière Ouest, Montréal (Québec) (ZIP)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+*De :* plaintehautedirection _x000D_
+ *Envoyé :* 9 avril (PRIVATE NO.):20_x000D_
+ *À :* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>_x000D_
+ *Cc :* (NAME), (NAME) <[(NAME).D(EMAIL)|mailto:(NAME).D(EMAIL)]>_x000D_
+ *Objet :* RE: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+Bonjour,_x000D_
+_x000D_
+ _x000D_
+_x000D_
+Je communique immédiatement avec le client et vous reviens pour un suivi._x000D_
+_x000D_
+Merci,_x000D_
+_x000D_
+ _x000D_
+_x000D_
+(NAME)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+*(NAME) Rathé*_x000D_
+_x000D_
+Conseillère Senior / Senior Advisor_x000D_
+_x000D_
+Gestion de la satisfaction client / Customer care_x000D_
+_x000D_
+Transit: (PRIVATE NO.)-1_x000D_
+ (  (PHONE) ((ZIP) à l'interne/internally*)*_x000D_
+ @ [(EMAIL)|mailto:(EMAIL)]_x000D_
+_x000D_
+*Banque Nationale du Canada | National Bank of Canada*_x000D_
+_x000D_
+*600 de la Gauchetière Ouest, Montréal (Québec), (ZIP)*_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+Pour nous joindre, visitez [bnc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bnc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=0B3SP2HfZUmnt2Uj96taGdO6V4kgJKqzAGmGIEVt3oM%3D&reserved=0]. Pour vos options de désinscription, [cliquez ici|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.communicationsbnc.ca%2Fbnc%2Fretrait&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=0H29zIZ2Gaw4HB1W8DT(PRIVATE NO.)suXgT96RS4Y4JIj8fa04%3D&reserved=0]. / To contact us, visit [nbc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nbc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=2age6fsElqx7ag6vUwO84vSewtJtH2wtoVpW06N5ryI%3D&reserved=0]+.+ For unsubscribe options, [click here|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nbccommunications.ca%2Fnbc%2Fwithdrawal&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=9bzOeapgZUtucYDUxfofWr4l1YRZxIKjK5qYk62xaX4%3D&reserved=0]._x000D_
+_x000D_
+Siège social|Head Office : 600, De La Gauchetière Ouest, Montréal (Québec) (ZIP)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ _x000D_
+_x000D_
+*De :* plaintehautedirection <[(EMAIL)|mailto:(EMAIL)]> _x000D_
+ *Envoyé :* 9 avril (PRIVATE NO.):06_x000D_
+ *À :* Desjardins, Ann <[Ann.D(EMAIL)|mailto:Ann.D(EMAIL)]>; Thibault, Pascale <[Pascale.T(EMAIL)|mailto:Pascale.T(EMAIL)]>; Rathe, (NAME) <[(NAME).R(EMAIL)|mailto:(NAME).R(EMAIL)]>; Pare-Huot, Antoni <[Antoni.P(EMAIL)|mailto:Antoni.P(EMAIL)]>; Gueye, Papa Birahim <[PapaBirahim.G(EMAIL)|mailto:PapaBirahim.G(EMAIL)]>_x000D_
+ *Objet :* FW: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+ ** _x000D_
+_x000D_
+*From:* (NAME), (NAME)_x000D_
+ *Sent:* Friday, April 9, (PRIVATE NO.) 3:05:44 PM (UTC+00:00) (PLACE), (PLACE)_x000D_
+ *To:* plaintehautedirection_x000D_
+ *Subject:* TR: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)_x000D_
+_x000D_
+Team,_x000D_
+_x000D_
+ _x000D_
+_x000D_
+Pouvez-vous regarder ca svp et me tenir au courant ?_x000D_
+_x000D_
+Merci_x000D_
+_x000D_
+ _x000D_
+_x000D_
+LB_x000D_
+_x000D_
+ _x000D_
+_x000D_
+*De :* jeanpierre.beaupre jeanpierre.beaupre <[(EMAIL)|mailto:(EMAIL)]> _x000D_
+ *Envoyé :* 9 avril (PRIVATE NO.):50_x000D_
+ *À :* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>; Hebert, Brigitte <[Brigitte.H(EMAIL)|mailto:Brigitte.H(EMAIL)]>_x000D_
+ *Objet :* Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)_x000D_
+_x000D_
+ _x000D_
+_x000D_
+**************************************_x000D_
+ PRUDENCE/CAUTION - EXTERNE/EXTERNAL _x000D_
+ **************************************_x000D_
+_x000D_
+Bonjour Mesdames,_x000D_
+_x000D_
+Je ne nomme Jean-Pierre Beaupré, je suis client de la Banque depuis de nombreuses années et liquidateur de la succession de mon père (NAME) qui était employé à la retraite de la Banque._x000D_
+_x000D_
+Je me permets de vous faire part  d'une situation particulièrement irritante concernant le service à la clientèle , le service des successions et le centre d'administration des régimes de retraite de la Banque car je suis convaincu que vous vous souciez de la qualité des services de la Banque envers ses clients.._x000D_
+_x000D_
+Sans donner tous les détails voici un bref résumé des faits:_x000D_
+ * Relevés fiscaux 2 et T-4A  RPA;_x000D_
+_x000D_
+ * Mon père employé retraité de la banque est décédé le 27 avril (PRIVATE NO.);_x000D_
+ * des paiements de pension ont été versés subséquemment au décès;_x000D_
+ * ces paiements ont été remboursés par débit au compte de succession;_x000D_
+ * la photocopie des relevés fiscaux que j'ai reçu le 30 mars (PRIVATE NO.) à ma demande puisque je ne les avaient pas encore reçus à cette date , sont erronés car ils ne tiennent pas compte du remboursement des paiements versés après le décès;_x000D_
+ * malgré mes appels répétées auprès du centre d'administration,  celui-ci refuse ou néglige d'annuler les relevés émis et d'émettre des relevés corrigés. Comme vous le savez, c'est à l'émetteur de corriger les relevés erronés et d'émettre de nouveaux relevés corrigés._x000D_
+_x000D_
+ * Relevés 2 et T-4 RIF- FERR_x000D_
+_x000D_
+ * (NAME) détenait deux FERR auprès de la succursale (PRIVATE NO.)-1;_x000D_
+ * je n'ai jamais reçu les relevés pour l'un des deux FERR . Par contre,  Monsieur Georgios Karaklas planificateur financier a toutefois réussi à en obtenir une copie des relevés manquants et à me les transmettre par courriel;_x000D_
+ * or il s'avère que les relevés n'ont pas été correctement complétés et que des retenues à la source n'auraient vraisemblablement  pas dû être prises;_x000D_
+ * M. Karaklas et sa remplaçante Madame Asmaa Majid de la succursale (PRIVATE NO.)  ont fait plusieurs suivis sans succès jusqu'à maintenant._x000D_
+_x000D_
+Je ne fait pas état des autre problèmes et délais survenus au cours de la dernière année dont notamment le délai de 4 mois pour l'ouverture du compte de succession auprès de Courtage direct, fermeture d'un compte bancaire sans avis etc...Ce qui m'a amené à soumettre mon insatisfaction au bureau de l'ombudsman l'an dernier._x000D_
+_x000D_
+J'apprécierais grandement une intervention de votre part auprès des services concernés afin que des relevés fiscaux corrigés et exacts me soient transmis rapidement._x000D_
+_x000D_
+En vous remerciant par avance, Mesdames , de votre aide._x000D_
+_x000D_
+Jean-Pierre Beaupré_x000D_
+_x000D_
+ (PHONE) (résidence)_x000D_
+_x000D_
+ (PHONE) (cellulaire)"," **     *From:* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>   *Sent:* Monday, April 12, (PRIVATE NO.) 2:46:03 PM (UTC+00:00) (PLACE), (PLACE)   *To:* plaintehautedirection <[(EMAIL)|mailto:(EMAIL)]>   *Cc:* (NAME), (NAME) <[(NAME).D(EMAIL)|mailto:(NAME).D(EMAIL)]>   *Subject:* RE: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)    Merci (NAME),         En effet….j’avais pas réalisé que c’était lui à la Société Générale    Merci de t’assurer de cela. Les feuillets fiscaux dans les successions ne sont souvent pas simples.         LB         *De :* plaintehautedirection <[(EMAIL)|mailto:(EMAIL)]>    *Envoyé :* 12 avril (PRIVATE NO.):04   *À :* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>   *Cc :* (NAME), (NAME) <[(NAME).D(EMAIL)|mailto:(NAME).D(EMAIL)]>   *Objet :* RE: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)         Bonjour,         J’ai communiqué avec le client vendredi dernier et je lui ai confirmé que j’allais m’assurer que son dossier se régularise rapidement. Par ailleurs, j’ai déjà communiqué avec les parties impliquées à la Banque, entre autres, VP opération investissement, ainsi que la directrice de section.         Il m’a demandé de vous saluer, car il m’a dit que vous aviez déjà travaillé ensemble.         Donc, vous pouvez considérer le dossier clos.         Merci,    (NAME)                   *(NAME) Rathé*    Conseillère Senior / Senior Advisor    Gestion de la satisfaction client / Customer care    Transit: (PRIVATE NO.)-1   (  (PHONE) ((ZIP) à l'interne/internally*)*   @ [(EMAIL)|mailto:(EMAIL)]    *Banque Nationale du Canada | National Bank of Canada*    *600 de la Gauchetière Ouest, Montréal (Québec), (ZIP)*              Pour nous joindre, visitez [bnc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bnc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=aAsM1gXwH3XnLoSKK7f%2BIOyFGESMFjL3CMlIyCZPkiw%3D&reserved=0]. Pour vos options de désinscription, [cliquez ici|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.communicationsbnc.ca%2Fbnc%2Fretrait&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=cWftwmaVeEyTXaN%2FwKLhBL9t7qU0VHBkcsRlOQPjjt4%3D&reserved=0]. / To contact us, visit [nbc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nbc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=yBjRbL%2BumBZAbrfyWnre5bsVqu9A1PngimV0HtLZFe0%3D&reserved=0]+.+ For unsubscribe options, [click here|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nbccommunications.ca%2Fnbc%2Fwithdrawal&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=Auf6AfiH7ay87r%2BbIdNmKblyQ6KokAG0dIxg5hfm5BM%3D&reserved=0].    Siège social|Head Office : 600, De La Gauchetière Ouest, Montréal (Québec) (ZIP)              *De :* plaintehautedirection    *Envoyé :* 9 avril (PRIVATE NO.):20   *À :* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>   *Cc :* (NAME), (NAME) <[(NAME).D(EMAIL)|mailto:(NAME).D(EMAIL)]>   *Objet :* RE: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)         Bonjour,         Je communique immédiatement avec le client et vous reviens pour un suivi.    Merci,         (NAME)              *(NAME) Rathé*    Conseillère Senior / Senior Advisor    Gestion de la satisfaction client / Customer care    Transit: (PRIVATE NO.)-1   (  (PHONE) ((ZIP) à l'interne/internally*)*   @ [(EMAIL)|mailto:(EMAIL)]    *Banque Nationale du Canada | National Bank of Canada*    *600 de la Gauchetière Ouest, Montréal (Québec), (ZIP)*              Pour nous joindre, visitez [bnc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.bnc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=0B3SP2HfZUmnt2Uj96taGdO6V4kgJKqzAGmGIEVt3oM%3D&reserved=0]. Pour vos options de désinscription, [cliquez ici|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.communicationsbnc.ca%2Fbnc%2Fretrait&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=0H29zIZ2Gaw4HB1W8DT(PRIVATE NO.)suXgT96RS4Y4JIj8fa04%3D&reserved=0]. / To contact us, visit [nbc.ca|https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.nbc.ca%2F&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=2age6fsElqx7ag6vUwO84vSewtJtH2wtoVpW06N5ryI%3D&reserved=0]+.+ For unsubscribe options, [click here|https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nbccommunications.ca%2Fnbc%2Fwithdrawal&data=04%7C01%7C(NAME).Rathe%40bnc.ca%7Cc1f84edcea0f4a(PRIVATE NO.)d8fdc1b2df%7Cc(PRIVATE NO.)cabce341a88aa7a23c(PRIVATE NO.)a%7C0%7C0%7C(NAS)(NAS)%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C(PRIVATE NO.)&sdata=9bzOeapgZUtucYDUxfofWr4l1YRZxIKjK5qYk62xaX4%3D&reserved=0].    Siège social|Head Office : 600, De La Gauchetière Ouest, Montréal (Québec) (ZIP)              *De :* plaintehautedirection <[(EMAIL)|mailto:(EMAIL)]>    *Envoyé :* 9 avril (PRIVATE NO.):06   *À :* Desjardins, Ann <[Ann.D(EMAIL)|mailto:Ann.D(EMAIL)]>; Thibault, Pascale <[Pascale.T(EMAIL)|mailto:Pascale.T(EMAIL)]>; Rathe, (NAME) <[(NAME).R(EMAIL)|mailto:(NAME).R(EMAIL)]>; Pare-Huot, Antoni <[Antoni.P(EMAIL)|mailto:Antoni.P(EMAIL)]>; Gueye, Papa Birahim <[PapaBirahim.G(EMAIL)|mailto:PapaBirahim.G(EMAIL)]>   *Objet :* FW: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)          **     *From:* (NAME), (NAME)   *Sent:* Friday, April 9, (PRIVATE NO.) 3:05:44 PM (UTC+00:00) (PLACE), (PLACE)   *To:* plaintehautedirection   *Subject:* TR: Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)    Team,         Pouvez-vous regarder ca svp et me tenir au courant ?    Merci         LB         *De :* jeanpierre.beaupre jeanpierre.beaupre <[(EMAIL)|mailto:(EMAIL)]>    *Envoyé :* 9 avril (PRIVATE NO.):50   *À :* (NAME), (NAME) <[(NAME).B(EMAIL)|mailto:(NAME).B(EMAIL)]>; Hebert, Brigitte <[Brigitte.H(EMAIL)|mailto:Brigitte.H(EMAIL)]>   *Objet :* Succession employé no. (PRIVATE NO.) (NAME) (succursale(PRIVATE NO.)-1)         **************************************   PRUDENCE/CAUTION - EXTERNE/EXTERNAL    **************************************    Bonjour Mesdames,    Je ne nomme Jean-Pierre Beaupré, je suis client de la Banque depuis de nombreuses années et liquidateur de la succession de mon père (NAME) qui était employé à la retraite de la Banque.    Je me permets de vous faire part  d'une situation particulièrement irritante concernant le service à la clientèle , le service des successions et le centre d'administration des régimes de retraite de la Banque car je suis convaincu que vous vous souciez de la qualité des services de la Banque envers ses clients..    Sans donner tous les détails voici un bref résumé des faits:   * Relevés fiscaux 2 et T-4A  RPA;     * Mon père employé retraité de la banque est décédé le 27 avril (PRIVATE NO.);   * des paiements de pension ont été versés subséquemment au décès;   * ces paiements ont été remboursés par débit au compte de succession;   * la photocopie des relevés fiscaux que j'ai reçu le 30 mars (PRIVATE NO.) à ma demande puisque je ne les avaient pas encore reçus à cette date , sont erronés car ils ne tiennent pas compte du remboursement des paiements versés après le décès;   * malgré mes appels répétées auprès du centre d'administration,  celui-ci refuse ou néglige d'annuler les relevés émis et d'émettre des relevés corrigés. Comme vous le savez, c'est à l'émetteur de corriger les relevés erronés et d'émettre de nouveaux relevés corrigés.     * Relevés 2 et T-4 RIF- FERR     * (NAME) détenait deux FERR auprès de la succursale (PRIVATE NO.)-1;   * je n'ai jamais reçu les relevés pour l'un des deux FERR . Par contre,  Monsieur Georgios Karaklas planificateur financier a toutefois réussi à en obtenir une copie des relevés manquants et à me les transmettre par courriel;   * or il s'avère que les relevés n'ont pas été correctement complétés et que des retenues à la source n'auraient vraisemblablement  pas dû être prises;   * M. Karaklas et sa remplaçante Madame Asmaa Majid de la succursale (PRIVATE NO.)  ont fait plusieurs suivis sans succès jusqu'à maintenant.    Je ne fait pas état des autre problèmes et délais survenus au cours de la dernière année dont notamment le délai de 4 mois pour l'ouverture du compte de succession auprès de Courtage direct, fermeture d'un compte bancaire sans avis etc...Ce qui m'a amené à soumettre mon insatisfaction au bureau de l'ombudsman l'an dernier.    J'apprécierais grandement une intervention de votre part auprès des services concernés afin que des relevés fiscaux corrigés et exacts me soient transmis rapidement.    En vous remerciant par avance, Mesdames , de votre aide.    Jean-Pierre Beaupré     (PHONE) (résidence)     (PHONE) (cellulaire)","['delai', 'releve', 'bncd', 'succession']"
+5,9173,insatisfaction_mec_fr,2021-01-12T19:15:48,FR,insatisfaction,"Pour moi, un McDo c'est un McDo, qu'il soit en (PLACE) ou peut importe, je m'attend au même service. J'essai de rejoindre courtage direct depuis 2 jours concernant le renouvellement des mes obligations qui arrivent à terme, et je ne suis pas capable de rejoindre personne. La première fois que j'ai essayé, j'ai attendu plus d'une heure avant de raccrocher, et aujourd'hui j'ai appellé vers 9h15, et rendu à 11h30, j'avais toujours parlé à personne. J'ai donc ré-essayé vers 15h aujourd'hui, et après 45 minutes j'ai raccroché, je n'avais toujours pas parlé avec une personne.","Pour moi, un McDo c'est un McDo, qu'il soit en (PLACE) ou peut importe, je m'attend au même service. J'essai de rejoindre courtage direct depuis 2 jours concernant le renouvellement des mes obligations qui arrivent à terme, et je ne suis pas capable de rejoindre personne. La première fois que j'ai essayé, j'ai attendu plus d'une heure avant de raccrocher, et aujourd'hui j'ai appellé vers 9h15, et rendu à 11h30, j'avais toujours parlé à personne. J'ai donc ré-essayé vers 15h aujourd'hui, et après 45 minutes j'ai raccroché, je n'avais toujours pas parlé avec une personne.",['bncd']
+5,9048,insatisfaction_mec_fr,2020-04-11T16:11:00,FR,insatisfaction,"J'ai ouvert un comte de courtage mes chose étaient chez patrimoine unlice, mes choses n'ont pas bien été transférés. La demande faite , la demande a été faite , mais on m'a dit qu'il y a eu un problème au niveau du transfert de vos actions, mais ça fait un bout de temps que ça doit être transféré, mais je suis en train d'attendre un appel lundi.","J'ai ouvert un comte de courtage mes chose étaient chez patrimoine unlice, mes choses n'ont pas bien été transférés. La demande faite , la demande a été faite , mais on m'a dit qu'il y a eu un problème au niveau du transfert de vos actions, mais ça fait un bout de temps que ça doit être transféré, mais je suis en train d'attendre un appel lundi.",['bncd']
+5,717,insatisfaction_gdi_fr,2021-03-21T13:40:38.000-0400,FR,,"lorsqu'on est dans sa session en ligne et qu'on clique sur un lien pour etre redirigé par exemple sur Courtage Direct, il serait bien d'avoir un petit ''pop up'' comme notification de rapeller qu'on est toujours connecter dans la session bancaire et de ne pas oublier de se déconnecter avant d'aller naviguer ailleurs","lorsqu'on est dans sa session en ligne et qu'on clique sur un lien pour etre redirigé par exemple sur Courtage Direct, il serait bien d'avoir un petit ''pop up'' comme notification de rapeller qu'on est toujours connecter dans la session bancaire et de ne pas oublier de se déconnecter avant d'aller naviguer ailleurs","['exp_num', 'bncd']"
+5,8913,insatisfaction_mec_fr,2020-03-13T19:17:00,FR,insatisfaction,"Suite à une erreur d'un conseiller,  un cheque de courtage est resté sur son bureau pendant 2 ans.","Suite à une erreur d'un conseiller,  un cheque de courtage est resté sur son bureau pendant 2 ans.","['bncd', 'savoir_faire']"
+5,4441,insatisfaction_mec_en,2020-03-24T14:45:00,EN,insatisfaction,"i open the account , after the bank account opening  i have to call several times to resolve the initial issues something was not setup right regarding my brokerage account.","i open the account , after the bank account opening  i have to call several times to resolve the initial issues something was not setup right regarding my brokerage account.",['bncd']
+5,12919,insatisfaction_succursales_fr,2017-09-22T00:00:00,,,MME N'ÉTAIT PAS SATISFAITE DU SERVICE OCTROYÉ. DIT QU'ON NE L'A PAS ASSEZ INFORMÉ DES FUTURS FRAIS QU'ELLE ALLAIT AVOIR DANS SES INVESTISSEMENTS CHEZ CDBN ET QUE JE N'ÉTAIS PAS ASSEZ PRÉSENTE POUR RÉGLER SON DOSSIER,MME N'ÉTAIT PAS SATISFAITE DU SERVICE OCTROYÉ. DIT QU'ON NE L'A PAS ASSEZ INFORMÉ DES FUTURS FRAIS QU'ELLE ALLAIT AVOIR DANS SES INVESTISSEMENTS CHEZ CDBN ET QUE JE N'ÉTAIS PAS ASSEZ PRÉSENTE POUR RÉGLER SON DOSSIER,"['frais', 'bon_service', 'bncd']"
+5,1210,insatisfaction_gdi_fr,2020-03-09T18:08:49.000-0400,FR,,le client a fait une transaction sur du coté de courtage et sa transaction n'a pas effectuer. courtage mentionne que ce n'est pas de leur coté et j'ai fait les vérification et ce n'est pas de notre coté. donc les clients trouve que c'est bizarre que les 2 coté disent la même chose ,le client a fait une transaction sur du coté de courtage et sa transaction n'a pas effectuer. courtage mentionne que ce n'est pas de leur coté et j'ai fait les vérification et ce n'est pas de notre coté. donc les clients trouve que c'est bizarre que les 2 coté disent la même chose ,['bncd']
+5,2261,insatisfaction_gdi_fr,2020-08-31T13:30:41.000-0400,FR,,"*MAUVAISE EXPÉRIENCE CLIENT*_x000D_
+_x000D_
+Le client se plaint de divers incidents tant lors de l'ouverture de ses comptes que lors de demande de transfert de compte en provenance de BNI. Il allègue qu'à cause des diverses erreurs au niveau de sa succursale et de BNCD, il a eu un manque à gagner de (PRIVATE NO.)$, lequel il réclame.","*MAUVAISE EXPÉRIENCE CLIENT*    Le client se plaint de divers incidents tant lors de l'ouverture de ses comptes que lors de demande de transfert de compte en provenance de BNI. Il allègue qu'à cause des diverses erreurs au niveau de sa succursale et de BNCD, il a eu un manque à gagner de (PRIVATE NO.)$, lequel il réclame.","['bncd', 'savoir_faire']"
+6,7305,insatisfaction_mec_fr,2019-08-21T08:33:00,FR,insatisfaction,"Arrêt de l’accès aux infos de courtage à escompte bnc, de la fbn à partir de l’application mobile, Début du problème suite à une mise à jour de l’appPersistance du problème malgré que mes consentements soient tous cochés:OUIMerci et bonne fin de journée","Arrêt de l’accès aux infos de courtage à escompte bnc, de la fbn à partir de l’application mobile, Début du problème suite à une mise à jour de l’appPersistance du problème malgré que mes consentements soient tous cochés:OUIMerci et bonne fin de journée","['exp_num', 'bncd']"
+6,1212,insatisfaction_gdi_fr,2020-03-09T15:23:56.000-0400,FR,,"clt veux se plaindre de courtage et une reclamation guichet cirrus daté de mars (PRIVATE NO.)._x000D_
+_x000D_
+Referer clt a contacté courtage, succursale et loumbs, car on ne pourrais rien faire pour elle ","clt veux se plaindre de courtage et une reclamation guichet cirrus daté de mars (PRIVATE NO.).    Referer clt a contacté courtage, succursale et loumbs, car on ne pourrais rien faire pour elle ",['bncd']
+6,4,insatisfaction_appbot_en,2019-05-03T00:00:00,,, worst app ever! Not working on my tablet anymore! Lost investment report from cdbn.... really! when something work.... DON'T TOUCH!!, worst app ever! Not working on my tablet anymore! Lost investment report from cdbn.... really! when something work.... DON'T TOUCH!!,"['bncd', 'exp_num']"
+6,6466,insatisfaction_mec_fr,2021-05-02T16:13:34,FR,à améliorer,de mettre la banque national courtage directe pour les investissements sur la meme platforme  pour  les comptes particuliers dans l application mobil,de mettre la banque national courtage directe pour les investissements sur la meme platforme  pour  les comptes particuliers dans l application mobil,"['exp_num', 'bncd']"
+6,5033,insatisfaction_mec_fr,2021-04-30T10:58:41,FR,insatisfaction,Les frais pour BNCD sont trop élevé.,Les frais pour BNCD sont trop élevé.,"['bncd', 'frais']"
+6,6361,insatisfaction_mec_fr,2021-01-13T19:10:03,FR,insatisfaction,"Pour parler à un représentant à courtage de la banque nationale hier 1 hrs j,ai raccrocher aujourd,huit 1h 17 minute  vraiment trop long pour transférer un créer mais la personne qui m'a répondu était excellent et super gentille ça fait la différence mercie","Pour parler à un représentant à courtage de la banque nationale hier 1 hrs j,ai raccrocher aujourd,huit 1h 17 minute  vraiment trop long pour transférer un créer mais la personne qui m'a répondu était excellent et super gentille ça fait la différence mercie",['bncd']
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

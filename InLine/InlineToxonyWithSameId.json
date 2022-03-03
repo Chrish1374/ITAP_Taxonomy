@@ -1,0 +1,181 @@
+{
+	"data": {
+		"categories": [
+			{
+				"id":"11",
+				"label": "Organization",
+				"description": "Organization",
+				"color": "#ff0000",
+				"children": [],
+				"attributes": [
+					{
+						"label": "Type",
+						"description": "Type",
+						"children": [
+							{
+								"label": "Public",
+								"description": "Public"
+							},
+							{
+								"label": "Private",
+								"description": "Private"
+							}
+						]
+					},
+					{
+						"label": "Revenue",
+						"description": "Revenue",
+						"children": [
+							{
+								"label": "Less_than_100k",
+								"description": "Less than 100k"
+							},
+							{
+								"label": "100_300k",
+								"description": "100-300k"
+							},
+							{
+								"label": "More_than_300k",
+								"description": "More than 300k"
+							}
+						]
+					},
+					{
+						"label": "For_profit_organization",
+						"description": "For profit organization",
+						"children": []
+					}
+				]
+			},
+			{
+				"id":"12",
+				"label": "Pending to assign",
+				"description": "Pending to assign",
+				"color": "#0000ff",
+				"children": [],
+				"attributes": [
+					{
+						"label": "Gender",
+						"description": "Gender",
+						"children": [
+							{
+								"label": "Female",
+								"description": "Female"
+							},
+							{
+								"label": "Male",
+								"description": "Male"
+							},
+							{
+								"label": "Other",
+								"description": "Other"
+							}
+						]
+					}
+				]
+			},
+			{
+				"id":"13",
+				"label": "Adjective",
+				"description": "Adjective",
+				"color": "#ffff00",
+				"children": [],
+				"attributes": []
+			},
+			{
+				"id":"14",
+				"label": "Industry",
+				"description": "Industry",
+				"color": "#ffc0cb",
+				"children": [],
+				"attributes": []
+			},
+			{
+				"id":"15",
+				"label": "Grammatical article",
+				"description": "Grammatical article",
+				"color": "#00FF00",
+				"children": [],
+				"attributes": []
+			},
+			{
+				"id":"16",
+				"label": "Category C",
+				"description": "Category C",
+				"color": "#800080",
+				"children": [],
+				"attributes": []
+			},
+			{
+				"id":"17",
+				"label": "Category D",
+				"description": "Category D",
+				"color": "#ffa500",
+				"children": [],
+				"attributes": []
+			},
+			{
+				"id":"18",
+				"label": "Category E",
+				"description": "Category E",
+				"color": "#FFD580",
+				"children": [],
+				"attributes": []
+			}
+		],
+		"category_links": [
+			{
+				"source": "13",
+				"destination": "11",
+				"links": [
+					{
+						"label": "Describes_this",
+						"description": "Describes this"
+					},
+					{
+						"label": "Describes_verb",
+						"description": "Describes verb"
+					}
+				]
+			},
+			{
+				"source": "11",
+				"destination": "14",
+				"links": [
+					{
+						"label": "Part_of",
+						"description": "Part of"
+					},
+					{
+						"label": "Aquired_by",
+						"description": "Aquired by"
+					},
+					{
+						"label": "Driving_force",
+						"description": "Driving force"
+					}
+				]
+			},
+			{
+				"source": "18",
+				"destination": "18",
+				"links": [
+					{
+						"label": "Compares_to",
+						"description": "Compares to"
+					}
+				]
+			},
+			{
+				"source": "11",
+				"destination": "13",
+				"links": [
+					{
+						"label": "Describes_this",
+						"description": "Describes this"
+					}
+				]
+			}
+		]
+	}
+}

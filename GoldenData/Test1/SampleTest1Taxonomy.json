@@ -1,0 +1,114 @@
+{
+	"data": [
+		{
+			"id": "1e1f3e34-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Fast Food",
+			"description": "Fast Food",
+			"children": [
+			{
+			"id": "1e1f3e34-c9d5-0242ac130003",
+			"label": "KFC",
+			"description": "KFC",
+			"children": []
+			},
+			{
+			"id": "1e1f3e34-b8bc-0242ac130003",
+			"label": "Mc Donald",
+			"description": "Mc Donald",
+			"children": []
+			},
+			{
+			"id": "1e1f3e34-c9d5-b8bvc-0242ac130003",
+			"label": "Sub way",
+			"description": "Sub way",
+			"children": []
+			}
+			],
+			"min": 0,
+			"max": 2
+		},
+		{
+			"id": "3510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Robot",
+			"description": "Robot",
+			"children": [
+				{
+					"id": "5077f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Epson",
+					"description": "Epson",
+					"children": []
+				},
+				{
+					"id": "5177f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Delta",
+					"description": "Delta",
+					"children": []
+				}
+			],
+			"min":0,
+			"max":2
+		},
+		{
+			"id": "4610e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Samsung",
+			"description": "Samsung",
+			"children": [],
+			"min": 2,
+			"max": 1
+		},
+		{
+			"id": "d053de5a-c9d2-11eb-b8bc-0242ac130003",
+			"label": "Car",
+			"description": "Car",
+			"children": [
+				{
+					"id": "4977f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Maruti",
+					"description": "Maruti",
+					"children": []
+				},
+				{
+					"id": "4977f5b4-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Suzuki",
+					"description": "Suzuki",
+					"children": [
+						{
+							"id": "4977f6ae-c9d3-11eb-b8bc-0242ac130003",
+							"label": "JAPAN",
+							"description": "JAPAN",
+							"children": []
+						},
+						{
+							"id": "4977f956-c9d3-11eb-b8bc-0242ac130003",
+							"label": "USA",
+							"description": "USA",
+							"children": []
+						},
+						{
+							"id": "4977fa28-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Germany",
+							"description": "Germany",
+							"children": []
+						}
+					]
+				}
+			],
+			"min":0,
+			"max":2
+		},
+		{
+			"id": "4510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Entertainment",
+			"description": "Entertainment",
+			"children": []
+		},
+		{
+			"id": "4977fc76-c9d3-11eb-b8bc-0242ac130003",
+			"label": "Duty",
+			"description": "Duty",
+			"children": [],
+			"min": 2,
+			"max": "b"
+		}
+	]
+}

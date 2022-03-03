@@ -1,0 +1,112 @@
+{
+	"data": [
+		{
+			"id": "1e1f3e34-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Funds",
+			"description": "Funds",
+			"children": []
+		},
+		{
+			"id": "3510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Sales",
+			"description": "Sales",
+			"children": []
+		},
+		{
+			"id": "4610e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Salary",
+			"description": "Salary",
+			"children": [],
+			"min": 4,
+			"max": "2"			
+		},
+		{
+			"id": "d053de5a-c9d2-11eb-b8bc-0242ac130003",
+			"label": "Government of The United Kingdom of Great Britain and Northern Ireland",
+			"description": "Government of The United Kingdom of Great Britain and Northern Ireland",
+			"children": [
+				{
+					"id": "4977f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Subsidies",
+					"description": "Subsidies",
+					"children": []
+				},
+				{
+					"id": "4977f5b4-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Assets",
+					"description": "Assets",
+					"children": []
+				},
+				{
+					"id": "4977fd34-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Expenditure",
+					"description": "Expenditure",
+					"children": []
+				}
+			],
+                    "min": 2,
+					"max": "1"
+		},
+		{
+			"id": "4510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Wages",
+			"description": "Wages",
+			"children": [
+						{
+							"id": "4977f6ae-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Employees",
+							"description": "Employees",
+							"children": []
+						},
+						{
+							"id": "4977f956-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Tangible Assets",
+							"description": "Tangible Assets",
+							"children": []
+						},
+						{
+							"id": "4977fa28-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Income for The United Kingdom of Great Britain and Northern Ireland",
+							"description": "Income for The United Kingdom of Great Britain and Northern Ireland",
+							"children": []
+						},
+						{
+							"id": "77fa28-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Low Income ",
+							"description": "Income for Low",
+							"children": []
+						},
+						{
+							"id": "28-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Mid Income ",
+							"description": "Income for Mid",
+							"children": []
+						},
+						{
+							"id": "c9d3-11eb-b8bc-0242ac130003",
+							"label": "High Income ",
+							"description": "Income for High",
+							"children": []
+						}
+					],
+					"min" : 3,
+					"max" : 3
+		},
+		{
+			"id": "4977fc76-c9d3-11eb-b8bc-0242ac130003",
+			"label": "Tax",
+			"description": "Tax",
+			"children": [],
+			"min": 1,
+			"max": "A"
+		},
+		{
+			"id": "638edb00-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Unit",
+			"description": "Unit",
+			"children": [],
+			"min": "A",
+			"max": "1"
+		}
+	]
+}

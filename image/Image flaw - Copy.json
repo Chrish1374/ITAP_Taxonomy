@@ -1,0 +1,75 @@
+{
+	"data": {
+		"categories": [
+			{
+				"label": "Living_Object"
+			},
+			{
+				"label": "Person",
+				"description": "Person",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Human_Face",
+				"description": "Human Face",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Animal",
+				"description": "Animal",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Bird",
+				"description": "Bird",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Plant",
+				"description": "Plant",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Food",
+				"description": "Food",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Basket",
+				"description": "Basket",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Shopping_Bag",
+				"description": "Shopping Bag",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Car",
+				"description": "Car",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Bike",
+				"description": "Bike",
+				"color": "",
+				"children": []
+			},
+			{
+				"label": "Unknown Object",
+				"description": "Unknown Object",
+				"color": "",
+				"children": []
+			}
+		]
+	}
+}

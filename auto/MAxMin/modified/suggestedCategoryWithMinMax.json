@@ -1,0 +1,109 @@
+{
+	"data": [
+		{
+			"id": "1e1f3e34-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Funds Category",
+			"description": "Funds Category",
+			"children": [],
+			"min": 0,
+			"max": 2
+		},
+		{
+			"id": "3510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Sales Category",
+			"description": "Sales Category",
+			"children": [
+				{
+					"id": "5077f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "SC1",
+					"description": "SC1",
+					"children": []
+				},
+				{
+					"id": "5177f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "SC2",
+					"description": "SC2",
+					"children": []
+				}
+			],
+			"min":0,
+			"max":2
+		},
+		{
+			"id": "4610e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Salary Category",
+			"description": "Salary Category",
+			"children": [],
+			"min": 2,
+			"max": 1
+		},
+		{
+			"id": "d053de5a-c9d2-11eb-b8bc-0242ac130003",
+			"label": "Government Category",
+			"description": "Government Category",
+			"children": [
+				{
+					"id": "4977f30c-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Subsidies Category",
+					"description": "Subsidies Category",
+					"children": []
+				},
+				{
+					"id": "4977f5b4-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Assets Category",
+					"description": "Assets Category",
+					"children": [
+						{
+							"id": "4977f6ae-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Employees Category",
+							"description": "Employees Category",
+							"children": []
+						},
+						{
+							"id": "4977f956-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Tangible Assets",
+							"description": "Tangible Assets",
+							"children": []
+						},
+						{
+							"id": "4977fa28-c9d3-11eb-b8bc-0242ac130003",
+							"label": "Income Category",
+							"description": "Income Category",
+							"children": []
+						}
+					]
+				},
+				{
+					"id": "4977fd34-c9d3-11eb-b8bc-0242ac130003",
+					"label": "Expenditure Category",
+					"description": "Expenditure Category",
+					"children": []
+				}
+			],
+			"min":1,
+			"max":2
+		},
+		{
+			"id": "4510e49e-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Wages Category",
+			"description": "Wages Category",
+			"children": []
+		},
+		{
+			"id": "4977fc76-c9d3-11eb-b8bc-0242ac130003",
+			"label": "Tax Category",
+			"description": "Tax Category",
+			"children": [],
+			"min": 2,
+			"max": "b"
+		},
+		{
+			"id": "638edb00-c9d5-11eb-b8bc-0242ac130003",
+			"label": "Unit Category",
+			"description": "Unit Category",
+			"children": [],
+			"min":0,
+			"max":1
+		}
+	]
+}
