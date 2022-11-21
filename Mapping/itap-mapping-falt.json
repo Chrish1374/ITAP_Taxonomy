@@ -1,0 +1,439 @@
+{
+  "single_required_group": {
+    "multiple": false,
+    "required": true,
+    "type": "group"
+  },
+  "single_optional_group": {
+    "description": "An optional group with one set of fields",
+    "multiple": false,
+    "required": false,
+    "type": "group"
+  },
+  "multiple_required_group": {
+    "description": "A required group with multiple sets of fields",
+    "multiple": true,
+    "required": true,
+    "type": "group"
+  },
+  "boolean_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Boolean (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "boolean"
+  },
+  "boolean_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Boolean (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "boolean"
+  },
+  "boolean_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Boolean (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "boolean"
+  },
+  "boolean_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Boolean (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "boolean"
+  },
+  "date_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Date Only (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "date"
+  },
+  "date_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Date Only (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "date"
+  },
+  "date_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Date Only (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "date"
+  },
+  "date_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Date Only (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "date"
+  },
+  "enum_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Dropdown (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "enum",
+    "options":
+    [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  "enum_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Dropdown (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "enum",
+    "options":
+    [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  "enum_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Dropdown (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "enum",
+    "options":
+    [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  "enum_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Dropdown (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "enum",
+    "options":
+    [
+      "a",
+      "b",
+      "c"
+    ]
+  },
+  "number_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Number (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "number"
+  },
+  "number_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Number (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "number"
+  },
+  "number_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Number (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "number"
+  },
+  "number_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Number (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "number"
+  },
+  "selection_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Selection of an exact match (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "selection"
+  },
+  "selection_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Selection of an exact match (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "selection"
+  },
+  "selection_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Selection of an exact match (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "selection"
+  },
+  "selection_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Selection of an exact match (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "selection"
+  },
+  "string_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "String (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "string"
+  },
+  "string_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "String (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "string"
+  },
+  "string_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "String (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "string"
+  },
+  "string_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "String (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "string"
+  },
+  "pointer_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Pointer to a full paragraph (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "pointer"
+  },
+  "pointer_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Pointer to a full paragraph (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "pointer"
+  },
+  "pointer_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Pointer to a full paragraph (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "pointer"
+  },
+  "pointer_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Pointer to a full paragraph (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "pointer"
+  },
+  "datetime_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Date and Time (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "datetime"
+  },
+  "datetime_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Date and Time (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "datetime"
+  },
+  "datetime_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Date and Time (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "datetime"
+  },
+  "datetime_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Date and Time (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "datetime"
+  },
+  "time_true_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Time Only (Required: true) (Multiple: true)?",
+    "required": true,
+    "type": "time"
+  },
+  "time_true_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Time Only (Required: true) (Multiple: false)?",
+    "required": true,
+    "type": "time"
+  },
+  "time_false_true": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": true,
+    "question": "Time Only (Required: false) (Multiple: true)?",
+    "required": false,
+    "type": "time"
+  },
+  "time_false_false": {
+    "groups": [
+      "single_required_group",
+      "single_optional_group",
+      "multiple_required_group"
+    ],
+    "multiple": false,
+    "question": "Time Only (Required: false) (Multiple: false)?",
+    "required": false,
+    "type": "time"
+  }
+}
